@@ -1,2 +1,2 @@
 # Beryllium
-Tax0787's FW
+`Berylium` is bridge of **`low` level programing to `super high` level programing.**
